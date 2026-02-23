@@ -14,10 +14,9 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=marioncalpe&show_icons=true&locale=en" alt="marioncalpe" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marioncalpe&" alt="marioncalpe" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=marioncalpe&show_icons=true&locale=en&layout=compact" alt="marioncalpe" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marioncalpe" alt="marioncalpe" /></a></p>
+
 
 
 
