@@ -1,23 +1,97 @@
-<h1>👋🏼 Je suis Marion ! 🔮 Developpeur FrontEnd 👩🏻‍🎓 Diplomé d'un maste Full Stack 🔧 Autodidacte en UX/UI</h1>
+# Marion Calpena
 
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a>
-<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a></p>
+```typescript
+const profile = {
+  name: "Marion Calpena",
+  bio: "Développeur Front-end, passionnée de UX/UI",
+  skills: [
+    "Angular",
+    "HTML5",
+    "CSS3",
+    "Sass",
+    "Material UI",
+    "React Native",
+    "JavaScript",
+    "TypeScript",
+    "Python"
+  ],
+}
+```
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marioncalpe&" alt="marioncalpe" /></p>
+## 👀 Visitor Count
 
+<!-- ⚠️ Important: Replace 'marioncalpe' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/marioncalpe/count.svg" />
+  <br>Thank you for visiting my profile! Come back soon!
+</p>
 
+## 🏆 GitHub Trophies
 
+<!-- ⚠️ Important: Replace 'marioncalpe' with your actual GitHub username in the URL below -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=marioncalpe&theme=onedark&column=7&margin-w=15&margin-h=15" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<!-- ⚠️ Important: Replace 'marioncalpe' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marioncalpe&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
+## 🔝 Most Used Languages
+
+<!-- ⚠️ Important: Replace 'marioncalpe' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marioncalpe&layout=compact&langs_count=10&theme=dark"/>
+</div>
+
+## 🔥 Contribution Streak
+
+<!-- ⚠️ Important: Replace 'marioncalpe' with your actual GitHub username in the URL below -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marioncalpe&theme=dark&hide_border=false" />
+</div>
+
+## 💻 Tech Stack
+
+```json
+{
+  "frontend": [
+    "Angular",
+    "HTML5",
+    "CSS3",
+    "Sass",
+    "Material UI"
+  ],
+  "mobile": [
+    "React Native"
+  ],
+  "languages": [
+    "JavaScript",
+    "TypeScript",
+    "Python"
+  ]
+}
+```
+
+## 🌐 Socials
+
+```javascript
+const socials = {
+  github: "marioncalpe",
+  linkedin: "https://www.linkedin.com/in/marion-calpena-90a930187/",
+}
+```
+
+<div>
+<a href="https://github.com/marioncalpe"><img src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/marion-calpena-90a930187/"><img src="https://img.shields.io/badge/linkedin-%23000000.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</div>
+
+```typescript
+// Thanks for visiting my profile!
+console.log("Let's connect and collaborate on exciting projects!");
+
+process.exit(0); // Until next time 👋
+```
