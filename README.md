@@ -23,8 +23,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
-
 <!--## 📬 Me contacter-->
 
 <!--<div align="center">-->
@@ -34,8 +32,6 @@
 <!--[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@exemple.com)-->
 
 <!--</div>-->
-
----
 
 <div align="center">
 
