@@ -1,17 +1,9 @@
 <div align="center">
 
 <!-- Bannière d'en-tête -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Marion%20Calpena&fontSize=50&fontAlignY=38&desc=Développeuse%20Front-End%20·%20UX%2FUI%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,100:c9a0dc&height=200&section=header&text=Marion%20Calpena&fontSize=50&fontAlignY=38&desc=Développeuse%20Front-End%20·%20UX%2FUI%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff" width="100%" />
 
 </div>
-
----
-
-Développeuse **Front-End** passionnée par l'**UX/UI**, je conçois des interfaces à la fois belles, intuitives et accessibles. J'aime transformer des maquettes en expériences web fluides et soignées, en accordant autant d'importance au design qu'à la qualité du code.
-
----
-
-## 🛠️ Ma stack
 
 ### 🎨 Front-End & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,20 +25,20 @@ Développeuse **Front-End** passionnée par l'**UX/UI**, je conçois des interfa
 
 ---
 
-## 📬 Me contacter
+<!--## 📬 Me contacter-->
 
-<div align="center">
+<!--<div align="center">-->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marion-calpena-90a930187/)
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marion-calpena-90a930187/)-->
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://ton-site.fr) -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@exemple.com)
+<!--[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton-email@exemple.com)-->
 
-</div>
+<!--</div>-->
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,100:c9a0dc&height=100&section=footer" width="100%" />
 
 </div>
