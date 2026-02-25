@@ -7,8 +7,6 @@
 
 ---
 
-## 👩‍💻 À propos de moi
-
 Développeuse **Front-End** passionnée par l'**UX/UI**, je conçois des interfaces à la fois belles, intuitives et accessibles. J'aime transformer des maquettes en expériences web fluides et soignées, en accordant autant d'importance au design qu'à la qualité du code.
 
 ---
@@ -32,24 +30,6 @@ Développeuse **Front-End** passionnée par l'**UX/UI**, je conçois des interfa
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 Mes stats GitHub
-
-<div align="center">
-
-![Marion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marioncalpe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marioncalpe&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🚀 Projets phares
-
-> 💡 *Retrouve mes projets épinglés juste en dessous !*
 
 ---
 
